@@ -1,2 +1,2 @@
-# exercises
+# SchoolNetworkProject
 Ασκηση sn
